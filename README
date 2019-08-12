@@ -1,0 +1,9 @@
+Available mods:
+        [top2bottom] - move {num of lines} from top to bottom WITHOUT doing copy on each move
+
+        [bottom2top] - the same as top2bottom except that from bottom to top
+
+        [copy_on_each_top2bottom] - move line/lines from top to bottom and save a new file
+            (example: file1.ifl) after the each line has been moved
+
+        [copy_on_each_bottom2top] - the same as copy_on_each_top2bottom except that from bottom to top
