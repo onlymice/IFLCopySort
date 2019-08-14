@@ -1,3 +1,8 @@
+#ignore vscode
 .vscode
-kivy_venv
+#ignore any test .ifl files
 *.ifl
+#ignore all cache from tests.py
+tests/*
+#except the tests.py itself
+!tests/tests.py
